@@ -8,7 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=MayankTamakuwala&theme=react&hide_border=true&include_all_commits=false&count_private=true)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MayankTamakuwala&theme=react&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankTamakuwala&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MayankTamakuwala&layout=compact&theme=react)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MayankTamakuwala&limit=8&theme=dark)

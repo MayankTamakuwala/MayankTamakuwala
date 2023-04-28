@@ -1,7 +1,7 @@
 name: Generate Snake
 on:
   push:
-      branches: ["main"]
+      branches: ["master"]
   schedule:
       # every 6 hours
     - cron: "0 */6 * * *"
@@ -21,7 +21,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3

@@ -20,9 +20,7 @@
 
 # 📈 My GitHub History:
 ![snake gif](https://github.com/MayankTamakuwala/MayankTamakuwala/blob/output/github-contribution-grid-snake.gif)
-![](https://github-readme-stats.vercel.app/api?username=MayankTamakuwala&theme=react&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-contributor-stats.vercel.app/api?username=MayankTamakuwala&limit=4&theme=dark)
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankTamakuwala&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MayankTamakuwala&limit=8&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=MayankTamakuwala&theme=react&hide_border=true&include_all_commits=false&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankTamakuwala&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->

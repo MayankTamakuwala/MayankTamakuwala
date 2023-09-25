@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Swift**
   
-- Made a new iMessage Application using **Swift and SwiftUI** called **Mock'EM**. Download it using <a target="_blank">https://apple.co/3DyVZvO</a>
+- Made a new iMessage Application using **Swift, SwiftUI and FakeYou API** called **Mock'EM**. Download it using <a target="_blank">https://apple.co/3DyVZvO</a>
 
 - 📫 How to reach me **maytamaku.saidhwar@gmail.com**
 

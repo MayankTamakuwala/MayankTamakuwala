@@ -24,7 +24,7 @@
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/DhruvGorasiya/DhruvGorasiya/output/snake.svg" alt="Snake animation" />
 </div> -->
-![snake gif](https://github.com/MayankTamakuwala/MayankTamakuwala/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MayankTamakuwala/MayankTamakuwala/blob/output/snake.svg)
 ![](https://github-contributor-stats.vercel.app/api?username=MayankTamakuwala&limit=8&theme=dark)
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=MayankTamakuwala&theme=react&hide_border=true&include_all_commits=false&count_private=true)

@@ -1,3 +1,4 @@
+<div style="background:'rgb(255,255,255)'">
 <h1 align="center">Hi 👋, I'm Mayank Tamakuwala</h1>
 
 - 🌱 I’m currently learning **Gen AI and Image Diffusion**
@@ -27,4 +28,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayankTamakuwala&theme=react&hide_border=true&include_all_commits=false&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankTamakuwala&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+</div>
 </div>
